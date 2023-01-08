@@ -14,3 +14,20 @@
 
 https://user-images.githubusercontent.com/107736520/211211816-bcd6fda7-b846-4b86-9fde-d062ceca5e2e.mp4
 
+## 2. Classic Weather App (open weather API)
+
+### What I've Learned in This Project
+- JS:
+
+  Async Await 
+  
+  JSONify the API data to display chosen weather data
+
+https://user-images.githubusercontent.com/107736520/211212479-f77b3bfd-13df-4a91-97a7-e73ca2c680d8.mp4
+
+## 3. Movie App
+### What I've Learned in This Project
+- JS:
+
+
+
