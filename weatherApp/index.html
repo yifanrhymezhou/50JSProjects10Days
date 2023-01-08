@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Weather App</title>
+        <link rel="stylesheet" href="style.css" />
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <div id="mainpart">
+            <input
+                type="text"
+                id="search"
+                placeholder="Search by location"
+            />
+            <button id="submit">Submit</button>
+        </div>
+        <div class="weatherloading">
+            <div class='square'>
+                <h2 class="city">Weather in 🌎 </h2>
+                <h1 class="temp">🌡️</h1>
+                <div class="flex">
+                    <img src="https://openweathermap.org/img/wn/04n.png" alt="" class="icon" />
+                    <div class="description"><br></div>
+                </div>
+                <div class="humidity">Humidity: </div>
+                <div class="wind">Wind Speed: </div>
+            </div>
+        </div>
+    </body>
+</html>
