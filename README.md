@@ -25,7 +25,12 @@ https://user-images.githubusercontent.com/107736520/211211816-bcd6fda7-b846-4b86
 
 https://user-images.githubusercontent.com/107736520/211212479-f77b3bfd-13df-4a91-97a7-e73ca2c680d8.mp4
 
-## 3. Movie App
+## 3. Dynamic Progress Bar
+### What I've Learned in This Project
+- JS:
+- CSS
+
+## 4. Movie App
 ### What I've Learned in This Project
 - JS:
 
