@@ -29,6 +29,8 @@ https://user-images.githubusercontent.com/107736520/211212479-f77b3bfd-13df-4a91
 ### What I've Learned in This Project
 - JS:
 
+- CSS:
+
 
 https://user-images.githubusercontent.com/107736520/211221026-aed08dc8-180e-414d-963f-988355722d3f.mp4
 
