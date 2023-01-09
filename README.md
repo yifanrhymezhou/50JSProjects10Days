@@ -1,4 +1,4 @@
-# 50JSProjects10Days
+# 50 JS Projects in 10 Days
 ## 1. Flexbile Card Display
 ### What I've Learned in This Project
 - JS: 
@@ -35,6 +35,16 @@ https://user-images.githubusercontent.com/107736520/211212479-f77b3bfd-13df-4a91
   ``` .root{--color--: #fff;} border: 4px solid var(--color--); ```
   
   **transition**
+  ```div {  transition: <property> <duration> <timing-function> <delay>;}```
+  
+  **content -> border -> outline**
+  
+  **transform**
+  
+  Rotate, skew, translate (*reposition* an element in the horizontal and/or vertical directions), and scale (resize: eg: ```transform: scale(0.9)```)
+  
+  **::before / ::after**
+  
 
 ## 4. Movie App
 ### What I've Learned in This Project
