@@ -108,3 +108,16 @@ https://user-images.githubusercontent.com/107736520/211221026-aed08dc8-180e-414d
 
 https://user-images.githubusercontent.com/107736520/212398001-eda5e34d-b115-4b4e-926a-12b48a8698c1.mp4
 
+## 6. Notes App
+### What I've Learned in This Project
+- JS:
+
+- CSS: 
+
+https://user-images.githubusercontent.com/107736520/212398777-fe082765-974f-425e-91ac-932861982595.mp4
+
+## 7. Blurry Loading Animation
+### What I've Learned in This Project
+- JS:
+
+- CSS:
