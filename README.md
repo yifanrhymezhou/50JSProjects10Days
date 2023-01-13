@@ -99,5 +99,12 @@ https://user-images.githubusercontent.com/107736520/211872451-097dabbe-2559-4d55
 https://user-images.githubusercontent.com/107736520/211221026-aed08dc8-180e-414d-963f-988355722d3f.mp4
 
 
+## 5. Hidden Search Bar
+### What I've Learned in This Project
+- JS: 
 
+- CSS:
+
+
+https://user-images.githubusercontent.com/107736520/212398001-eda5e34d-b115-4b4e-926a-12b48a8698c1.mp4
 
