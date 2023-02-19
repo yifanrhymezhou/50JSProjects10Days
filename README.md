@@ -132,3 +132,12 @@ https://user-images.githubusercontent.com/107736520/212398777-fe082765-974f-425e
 
 ## 8. FAQ Collapse
 ### What I've Learned in This Project
+- JS:
+
+- CSS: 
+
+## 9. Animated Navigation
+### What I've Learned in This Project
+- JS:
+
+- CSS:
