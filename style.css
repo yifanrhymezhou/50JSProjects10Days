@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: black;
+    overflow: hidden;
+}
+body, .counter-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter-container{
+    flex-direction: column;
+    color: aliceblue;
+    margin: 40px 50px;
+}
+
+/*Animated Numbers*/
+.counter-container > .counter{
+    font-size: 60px;
+    margin: 10px 0;
+}
+
+.counter-container > span{
+    font-size: 20px;
+}
